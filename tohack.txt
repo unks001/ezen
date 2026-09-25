@@ -1,0 +1,11 @@
+http://ezen.tysons.co.ke/live/apidocs/
+https://ezen.tysons.co.ke/test.html
+http://ezen.tysons.co.ke/server-status
+http://ezen.tysons.co.ke/run
+https://ezen.tysons.co.ke/output
+https://ezen.tysons.co.ke/app.js
+https://ezen.tysons.co.ke/api/swagger.json
+https://ezen.tysons.co.ke/;login/#
+http://ezen.tysons.co.ke/;admin/
+
+https://chat.deepseek.com/share/rnfnpp98xgwp2b8n51
